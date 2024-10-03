@@ -1,7 +1,5 @@
 # Informe lab1 Sistemas operativos
 
-**Integrantes:** Nicolás Contrera, María José Aranda, Juan Narvaez
-
 ## Introducción
 
 Los usuarios de sistemas operativos usan como herramienta fundamental la terminal o línea de comandos. Este trabajo consistió en implementar una herramienta más simple pero en esencia la misma. Entonces al completar este programa logramos entender a mayor profundidad una herramienta tan importante para nuestra tarea como desarrolladores de software.
