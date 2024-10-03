@@ -1,7 +1,5 @@
 # Informe laboratorio 2: Semáforos en XV6
 
-**Integrantes**: María José Aranda, Martín Nicolás Contrera, Juan Narvaez
-
 ## Introducción
 Con el objetivo de entender el tema de la concurrencia, en este proyecto se implementó un sistema de semáforos como mecanismo de sincronización para permitir que diferentes procesos o hilos utilicen el procesador de manera ordenada y segura. Para ello, se debieron crear las syscalls necesarias para que usaran semáforos del estilo semáforos nombrados. Las syscalls mínimas a implementar serán `sem_open`, `sem_close`, `sem_up` y `sem_down` a partir de las syscalls `acquire`, `release`, `sleep`, `wait`, etc.
 
