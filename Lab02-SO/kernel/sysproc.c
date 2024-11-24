@@ -189,6 +189,7 @@ sys_sem_up (void){
   
   if (semaphores[sem].value == 0){
     wakeup(&semaphores[sem]); 
+    
   }
 
   semaphores[sem].value++; 
